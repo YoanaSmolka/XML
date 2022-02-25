@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Basetheory>
+		<row>Что такое тестирование</row>
+		<row>Баг репорты</row>
+		<row>Документация</row>
+		<row>Виды</row>
+		<row>Методы</row>
+		<row>Направления тестирования</row>
+		<row>SDLS</row>
+		<row>STLC</row>
+	</Basetheory>
+	<CodeHTTP>100-500</CodeHTTP>
+	<Whatis>
+		<row>JSON</row>
+		<row>XML</row>
+	</Whatis>
+	<TestingAPI>
+		<row>Postman</row>
+		<row>JS</row>
+		<row>Automation API</row>
+	</TestingAPI>
+	<Sniffer>
+		<row>Charles</row>
+		<row>Fiddler</row>
+	</Sniffer>
+	<Devtools>
+		<row>Google Chrome</row>
+		<row>FireFox</row>
+	</Devtools>
+</root>
