@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Summary>The error message doesn't disappear after filling in the required fields on the main page</Summary>
+    <Bug_description>
+        <STR>
+            <row>Go to main page</row>
+            <row>Click on the Next button</row>
+            <row>Fill in the required fields</row>
+        </STR>
+    </Bug_description>
+    <AR>The error messages remained</AR>
+    <ER>No error messages</ER>
+    <Severity>minor</Severity>
+    <Reporter>Name</Reporter>
+    <Assignee>Name</Assignee>
+</root>
